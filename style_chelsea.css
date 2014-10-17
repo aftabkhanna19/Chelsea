@@ -1,12 +1,7 @@
 body {
   font-family: 'Lobster'; 
-  font-weight: 300;
+  font-weight: 200;
   }
-#wrapper {
-  width: 860px;
-  margin: 10px auto;
-  padding: 10px;
-}
 a{
 	color:red;
 }
@@ -38,4 +33,17 @@ a:hover {
 	margin: 24px;
 	text-align: center;
 	font-size: 15px
+}
+div#header {
+	padding-top: 10px;
+	text-align: center;
+}
+div#content{
+	padding-left: 20px;
+	padding-right: 30px;
+	padding-bottom: 20px;
+}
+.padded{
+	padding-left:30px;
+	padding-right: 30px;
 }
