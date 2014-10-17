@@ -1,0 +1,41 @@
+body {
+  font-family: 'Lobster'; 
+  font-weight: 300;
+  }
+#wrapper {
+  width: 860px;
+  margin: 10px auto;
+  padding: 10px;
+}
+a{
+	color:red;
+}
+h1{
+	font-size: 40px;
+	font-family: 'Lobster';
+	color: red;
+	font-style: italic;
+	font-weight: bold;
+	}
+h2{
+	font-size: 26px
+}
+h3{
+	font-size: 24px
+}
+img{
+	border: 1px solid grey;
+	border-radius: 999999px black;
+}
+p, li{
+	line-height: 20px
+}
+a:hover {
+	color: purple
+}
+#footer {
+	color: blue;
+	margin: 24px;
+	text-align: center;
+	font-size: 15px
+}
